@@ -14,16 +14,14 @@ Skills: go, Python , NEXT JS / REACT / JS / HTML / CSS
 
 ## Examples of Work
 <!--<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >-->
-* School Management Dashboard
-<br>
+### 1. School Management Dashboard <br/>
 ```
-For Learn Nextjs
-This app is school management application
-```
-  <br>
-DEMO app link.
-`http://3.105.229.166:3000/`
+To learn more about Next.js.
+This app is school management application.
 
+DEMO app link.<br>
+http://3.105.229.166:3000/
+```
 ## Skills and Experience
 * ⚛ React
 * Python
