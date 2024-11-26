@@ -1,8 +1,6 @@
 ### Hi there 👋, I am BOMB
 #### Wel come to my world
-![Wel come to my world](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I'm Yuttana K. from Thailand. I am sofwere engineer.
+I'm Yuttana K. from Thailand.<br>
 I really enjoy learning languages and frameworks like Golang ,Phython , JavaScript.  I also enjoy techonology 
 
 Skills: go, Python , NEXT JS / REACT / JS / HTML / CSS
@@ -14,12 +12,11 @@ Skills: go, Python , NEXT JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuttana76)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## Examples of Work
+<!--<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >-->
 
 ## Skills and Experience
 * ⚛ React
-* 📱 React Native
+* Python
 * 💻 HTML, CSS, JS
 
-## Examples of Work
-<!--<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >-->
