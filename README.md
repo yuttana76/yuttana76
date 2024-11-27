@@ -2,7 +2,7 @@
 #### Wel come to my world
 ```
 I'm Yuttana K. from Thailand.<br>
-I really enjoy learning languages and frameworks like Golang ,Phython , JavaScript.  I also enjoy techonology 
+I really enjoy learning languages and frameworks like Golang ,Phython , JavaScript.  I also enjoy any kind of techonology 
 ```
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yuttana76)  
 
